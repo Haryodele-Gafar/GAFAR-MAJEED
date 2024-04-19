@@ -1,2 +1,2 @@
 # GAFAR-MAJEED
-Jadeite Apparels
+Jadeite Apparels front page
